@@ -10,6 +10,7 @@ __2.Clone and cd then sh upload.sh__
 
 
 ```shell
+rm -rf KeUploader
 git clone https://github.com/gitlhz/KeUploader.git
 cd KeUploader
 sh upload.sh
